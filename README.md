@@ -1,7 +1,7 @@
-# JavaFlow-Examples
+# JavaFlow Examples
 This repository collects arbitrary examples implemented in Java which follows the Flow Design paradigm and the IODA Architecture by Ralf Westphal.
 
-All exampels are implemented in Java 8 applying the new lambda notation intensively. 
+All examples are implemented in Java 8 applying the new lambda notation extensively. 
 
 Currently only one example has been implemented - [ConvertRoman](https://github.com/kuniss/JavaFlow-Examples/tree/master/ConvertRoman).
 
@@ -20,4 +20,4 @@ The following shows the implementation of the [*Convert* method](ConvertRoman/sr
 This is quite similar to Ralf's C# implementation:
 ![C# implementation of Convert and Run methods](https://gwb.blob.core.windows.net/thearchitectsnapkin/Windows-Live-Writer/df23fce65724_C742/image_thumb_13.png)
 
-I plan to write a detailed [blog](http://blog.grammarcraft.de) post on this example - stay tuned and follow me. 
+I plan to write a detailed [blog](http://blog.grammarcraft.de) post on this example as well as Flow Design and IODA Architectur applied to Java, in general - stay tuned and follow me. 
