@@ -20,4 +20,4 @@ The following shows the implementation of the [*Convert* method](ConvertRoman/sr
 This is quite similar to Ralf's C# implementation:
 ![C# implementation of Convert and Run methods](https://gwb.blob.core.windows.net/thearchitectsnapkin/Windows-Live-Writer/df23fce65724_C742/image_thumb_13.png)
 
-I plan to write a detailed [blog](http://blog.grammarcraft.de) post on this example as well as Flow Design and IODA Architectur applied to Java, in general - stay tuned and follow me. 
+I have written a detailed [blog post](http://blog.grammarcraft.de/2016/10/19/let-it-flow-in-java/) on this example as well as Flow Design and IODA Architectur applied to Java, in general - check it out and follow me. 
